@@ -34,7 +34,7 @@ from CilikMusic import userbot
 async def aexec(code, client, message):
     exec(
         "async def __aexec(client, message): "
-        + "\n cilik = app"
+        + "\n zen = app"
         + "\n m = message"
         + "\n r = message.reply_to_message"
         + "\n vcs = get_active_chats"
