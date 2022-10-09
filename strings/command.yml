@@ -12,7 +12,7 @@
 
 # Bot Commands
 PING_COMMAND : ["mping"]
-START_COMMAND : ["mstart"]
+START_COMMAND : ["start"]
 HELP_COMMAND : ["mhelp"]
 SETTINGS_COMMAND : ["msettings", "msetting"]
 RELOAD_COMMAND : ["admincache", "reload"]
@@ -57,10 +57,10 @@ RESTART_COMMAND : ["restart"]
 # Sudo Command
 ADDSUDO_COMMAND : ["addsudo"]
 DELSUDO_COMMAND : ["delsudo"]
-SUDOUSERS_COMMAND : ["msudolist"]
+SUDOUSERS_COMMAND : ["sudolist"]
 
 #Broadcast 
-BROADCAST_COMMAND : ["mbroadcast"]
+BROADCAST_COMMAND : ["broadcast"]
 
 #Blacklist chat
 BLACKLISTCHAT_COMMAND : ["blacklistchat"]
