@@ -1,5 +1,5 @@
 {
-    "name": "Cilik Music Bot",
+    "name": "Zenitsu Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/062af7533fb7f44a30f0c.jpg",
     "keywords": [
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/grey423/CilikMusic",
+        "value": "https://github.com/BionXP/ZenitsuMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
